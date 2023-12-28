@@ -1,7 +1,4 @@
-import behavioralPatterns.chainOfResponsibility.HandlerOne;
-import behavioralPatterns.chainOfResponsibility.HandlerThree;
-import behavioralPatterns.chainOfResponsibility.HandlerTwo;
-import behavioralPatterns.chainOfResponsibility.Request;
+
 
 public class DesignPatterns {
 

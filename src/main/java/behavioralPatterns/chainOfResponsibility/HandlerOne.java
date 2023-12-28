@@ -6,7 +6,7 @@ public class HandlerOne extends Handler{
         if (request.getAmount() > 100) {
             System.out.println("Amount > 100: Handled by handlerOne");
         } else {
-            this.getSuccessor().handleRequest(request);
+                this.getSuccessor().handleRequest(request);
         }
     }
 }
